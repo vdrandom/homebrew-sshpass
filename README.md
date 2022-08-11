@@ -6,7 +6,7 @@ Homebrew maintainers reject adding [sshpass](https://github.com/Homebrew/homebre
 
 #### Download formula
 ```sh
-curl -L https://github.com/tuananh170489/sshpass/raw/main/sshpass.rb -o $HOMEBREW/Library/Taps/homebrew/homebrew-core/Formula/sshpass.rb
+curl -L https://github.com/vdrandom/homebrew-sshpass/raw/main/sshpass.rb -o $HOMEBREW/Library/Taps/homebrew/homebrew-core/Formula/sshpass.rb
 ```
 
 #### Install sshpass from source
